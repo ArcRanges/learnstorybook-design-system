@@ -34,7 +34,7 @@ const SIZES = {
 
 const StyledButton = styled.button`
   border: 0;
-  border-radius: 5px;
+  border-radius: 3rem;
   cursor: pointer;
   display: inline-block;
   overflow: hidden;
