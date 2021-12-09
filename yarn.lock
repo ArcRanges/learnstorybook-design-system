@@ -2714,6 +2714,28 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@storybook/addon-a11y@^6.4.8":
+  version "6.4.8"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-a11y/-/addon-a11y-6.4.8.tgz#1cbd434380dc322eca111b9a6a51336a3ec17db8"
+  integrity sha512-gD1hTLhzfGEIa8/T+WzL8fOfl9w1lFCnGQVbBlcwk5BYLg2qUA5Gg1zIGgr/0G69Uq2G92Hc26YEsomOY1qprg==
+  dependencies:
+    "@storybook/addons" "6.4.8"
+    "@storybook/api" "6.4.8"
+    "@storybook/channels" "6.4.8"
+    "@storybook/client-logger" "6.4.8"
+    "@storybook/components" "6.4.8"
+    "@storybook/core-events" "6.4.8"
+    "@storybook/csf" "0.0.2--canary.87bc651.0"
+    "@storybook/theming" "6.4.8"
+    axe-core "^4.2.0"
+    core-js "^3.8.2"
+    global "^4.4.0"
+    lodash "^4.17.21"
+    react-sizeme "^3.0.1"
+    regenerator-runtime "^0.13.7"
+    ts-dedent "^2.0.0"
+    util-deprecate "^1.0.2"
+
 "@storybook/addon-actions@6.4.8", "@storybook/addon-actions@^6.4.8":
   version "6.4.8"
   resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-6.4.8.tgz#1070f89d30449e0f1f2118ca1140681a20a04591"
@@ -5036,6 +5058,11 @@ axe-core@^4.0.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.1.2.tgz#7cf783331320098bfbef620df3b3c770147bc224"
   integrity sha512-V+Nq70NxKhYt89ArVcaNL9FDryB3vQOd+BFXZIfO3RP6rwtj+2yqqqdHEkacutglPaZLkJeuXKCjCJDMGPtPqg==
+
+axe-core@^4.2.0:
+  version "4.3.5"
+  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.3.5.tgz#78d6911ba317a8262bfee292aeafcc1e04b49cc5"
+  integrity sha512-WKTW1+xAzhMS5dJsxWkliixlO/PqC4VhmO9T4juNYcaTg9jzWiJsou6m5pxWYGfigWbwzJWeFY6z47a+4neRXA==
 
 axobject-query@^2.2.0:
   version "2.2.0"
